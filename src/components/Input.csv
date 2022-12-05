@@ -1,0 +1,56 @@
+Day,8:30-9:00,9:00-9:30,9:30-10:00,10:00-10:30,10:30-11:00,11:00-11:30,11:30-12:00,12:00-12:30,12:30-1:00,1:30-2:00,2:00-2:30,2:30-3:00,3:00-3:30,3:30-4:00,4:00-4:30,4:30-5:00,5:00-5:30
+Monday,,,"ML(A)      C101
+ML(B)      C201
+QM          C13
+LST         C24
+USPP      A006",,,"FOMB         C101
+DMG           C201
+AC               C13
+DCS            C13",,,,,,,"CM              A006
+DIP(A)          C01
+DIP(B)          C13
+AML             C03",,,"FOMB         C101
+DMG           C201
+AC               C13
+DCS            C13",
+Tuesday,,,"CGAS      C01
+CMP        C02
+IIA            C210
+OWC        C13",,,"CBB           C03
+MAD          C215
+NS             C21
+CldC          C213",,,,,,,"MLBA          C102
+NLP             C01
+DF               A106
+DSP            A006",,,"BioP            C01
+AAG            C11
+IRoB            B105
+AI                C102",
+Wednesday,,,ML-Tut       A006 ,,,,,,,Lunch,,,,,,,
+Thursday,,,"ML(A)      C101
+ML(B)      C201
+QM          C13
+LST         C24
+USPP      A006",,,"FOMB         C101
+DMG           C201
+AC               C13
+DCS            C13",,,,                    EVS,   C102,,"CM              A006
+DIP(A)          C01
+DIP(B)          C13
+AML             C03",,,"FOMB         C101
+DMG           C201
+AC               C13
+DCS            C13",
+Friday,,,"CGAS      C01
+CMP        C02
+IIA            C210
+OWC        C13",,,"CBB           C03
+MAD          C215
+NS             C21
+CldC          C213",,,,,,,"MLBA          C102
+NLP             C01
+DF               A106
+DSP            A006",,,"BioP            C01
+AAG            C11
+IRoB            B105
+AI                C102",
